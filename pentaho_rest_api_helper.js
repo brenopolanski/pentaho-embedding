@@ -31,7 +31,7 @@ function PentahoRestApis(serverUrl, pentaho_user, pentaho_pwd) {
             ".xanalyzer": "/api/repos/<PATH>/editor",
             ".xdash": "/api/repos/<PATH>/editor",
             ".prpti": "/api/repos/<PATH>/prpti.edit",
-			".wcdf": "/api/repos/<PATH>/editor"
+			".wcdf": "/api/repos/<PATH>/wcdf.edit"
         },
         "create": {
             //".prpt" : "/api/repos/<PATH>/generatedContent",
